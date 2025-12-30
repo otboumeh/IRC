@@ -90,7 +90,7 @@ A huge thank you to my teammate and collaborator:
 <div align="center">
 
 ### **[veragarc](https://github.com/VeraGD)**
-
+### **[otboumeh](https://github.com/otboumeh)**
 </div>
 
 Thanks for the hard work, debugging sessions, and support in building this server! 🚀
